@@ -1,2 +1,2 @@
 # GCP-DevOps-PracticeProject
-GCP + Devops refresher
+GCP + Devops refresher using a sprint approach
